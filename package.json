@@ -1,0 +1,8 @@
+{
+  "name": "trie-map",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "Ali Najafizadeh <a.najafizadeh@gmail.com>",
+
+  "main": "lib/index.js"
+}
